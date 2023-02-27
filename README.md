@@ -1,7 +1,7 @@
-### Hi there! Welcome to my personal github page!
-##Check out my [personal website](web.njit.edu/~tvt4/)
-##Im currently working on [my capstone class project](github.com/alaachami/StudyUs)
-** Reach me at thotranexe@gmail.com **
+### Hi there 👋 Welcome to my personal github page!
+#### Check out my [personal website](web.njit.edu/~tvt4/) 💻
+#### Im currently working on [my capstone class project](github.com/alaachami/StudyUs) ⭐
+**Reach me at thotranexe@gmail.com**
 
 <!--
 **thotranexe/thotranexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
