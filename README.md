@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my personal github page!
 #### Check out my [personal website](https://web.njit.edu/~tvt4/) 💻
 #### Im currently working on [my capstone class project](https://github.com/alaachami/StudyUs) ⭐
-**Reach me at thotranexe@gmail.com**
+**Reach me at thotran.exe@gmail.com**
 
 <!--
 **thotranexe/thotranexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
